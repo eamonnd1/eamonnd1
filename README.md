@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eamonn Delaney
 - 👀 I’m interested in computer science and artificial intelligence
-- 🌱 I’m currently learning HTML, CSS, Javascript and SQL
+- 🌱 I’m currently learning C# (ASP.NET), HTML, CSS, Javascript and SQL
 - 👀 I am fairly confident with Python
 <!---
 - 💞️ I’m looking to collaborate on ...
