@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eamonn Delaney
-- 👀 I’m interested in computer science and artificial intelligence
+- 👀 I’m interested in computer science and Web Development and AI
 - 🌱 I’m currently learning C# (ASP.NET), HTML, CSS, Javascript and SQL
 - 👀 I am fairly confident with Python
 <!---
