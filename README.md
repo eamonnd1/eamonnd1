@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Eamonn Delaney
-- 👀 I’m interested in computer science, Web Development and AI
-- 🌱 I’m currently learning C# (ASP.NET), HTML, CSS, Javascript and SQL in my free time
-- 👀 I have a lot of experience writing python code
-- 👀 I also attend university where I have gained experience with java, networking, software security
+- 👀 I’m interested in computer science, Web Development and AI.
+- 🌱 I’m currently learning C# (ASP.NET) in my free time.
+- 👀 I have some experience writing python code.
+- 🌱 I have basic HTML, CSS, Javascript knowledge, enough though, that I am also learning React.
+- 👀 I also attend university where I have gained experience with java, SQL, networking and software security.
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
