@@ -9,7 +9,7 @@ Frameworks: ASP.NET, React.js, Node.js.
 Infrastructure: MongoDB, TrueNAS server administration.
 
 🚀 Currently Working On
-[Satisfactory Planner]: A project dedicated to mastering the React/Node.js stack. I’m building this to translate my full-stack experience from C#/.NET into a new environment.
+Satisfactory Planner: A project dedicated to mastering the React/Node.js stack. I’m building this to translate my full-stack experience from C#/.NET into a new environment.
 
 Data Analytics: Actively studying data modeling and analytics to broaden my technical toolkit alongside my university studies.
 
